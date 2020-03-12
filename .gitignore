@@ -169,5 +169,6 @@ front-end/.pnp
 front-end/.pnp.js
 front-end/coverage
 front-end/build
+front-end/package-lock.json
 
 # End of https://www.gitignore.io/api/node,react,visualstudiocode
