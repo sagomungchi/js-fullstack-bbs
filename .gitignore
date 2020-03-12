@@ -159,4 +159,15 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+#back-end
+back-end/.babelrc
+back-end/config/*.json
+back-end/package-lock.json
+
+#front-end
+front-end/.pnp
+front-end/.pnp.js
+front-end/coverage
+front-end/build
+
 # End of https://www.gitignore.io/api/node,react,visualstudiocode
